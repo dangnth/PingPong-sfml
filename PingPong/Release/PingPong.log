@@ -1,0 +1,63 @@
+﻿  pch.cpp
+  PingPong.cpp
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(CircleShape.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(CircleShape.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in PingPong.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in PingPong.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+E:\Projects\PingPong\Release\PingPong.exe : fatal error LNK1120: 3 unresolved externals
